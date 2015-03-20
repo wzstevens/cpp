@@ -1,0 +1,16 @@
+1. Output a board in the following format:
+ 
+  1   2   3
+1   |   |
+ ---+---+---
+2   |   |
+ ---+---+---
+3   |   |
+
+ 
+No other board format will be accepted. You must number the rows and columns, not each box.
+ 
+2. Ask the user for a row and column number.
+3. Put the appropriate symbol for that player (X or O) in the specified spot.
+4. Repeat for the next player until someone has won the game.
+5. If someone has won, announce which player won and exit.
